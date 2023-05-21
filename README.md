@@ -29,3 +29,5 @@ This jumping game is developed by **Jacob Lowther** as a way to hone in my skill
 Enjoy playing and have fun!
 
 Happy gaming!
+
+**THE IMAGES USED IN THIS GAME ARE NOT MINE!**
